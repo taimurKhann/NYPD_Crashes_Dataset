@@ -11,5 +11,5 @@ docker run -it -p 5656:80 creditshelf:1.0 bash
 5) Once the command ran and docker image bash opens run below command
 ./script.py
 
-6) After the execution of the script open the browser and type below uel
+6) After the execution of the script open the browser and type below url
 http://127.0.0.1:5656/
